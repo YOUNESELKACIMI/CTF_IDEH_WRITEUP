@@ -3,7 +3,7 @@
 
 Team : Binary Bandits  
 
-![image](file:///C:/Users/YOUNES%20EL%20KACIMI/Desktop/ALGORITHME.html)
+![image](https://user-images.githubusercontent.com/119015253/230493066-10b7c370-9a9c-4284-80ef-a3d29489cf21.jpeg)
 
 
 ## Solved challenges
